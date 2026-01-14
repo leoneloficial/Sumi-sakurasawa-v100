@@ -156,9 +156,9 @@ href="https://home.akirax.net"><img src="https://o.uguu.se/mfnuwWzC.jpeg" height
 
 ---
 
-### **`❀ Colaboradores`**
+### ❀ Colaboradores
 <a href="https://github.com/The-King-Destroy/YukiBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=The-King-Destroy/YukiBot-MD" /> 
+  <img src="https://contrib.rocks/image?repo=The-King-Destroy/YukiBot-MD" />
 </a>
 
 ### **`ꕥ Agradecimientos`**
